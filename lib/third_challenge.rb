@@ -33,6 +33,5 @@ def third_challenge
       :heroine_friends => []
    }
 }
-
-  
 end
+epic_tragedy[:montague][:hero][:status] = "dead"
